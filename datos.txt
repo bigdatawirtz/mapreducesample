@@ -1,0 +1,8 @@
+pablo xaneiro 10
+maria xaneiro 20
+pepe xaneiro 15
+carmen xaneiro 10
+pablo febreiro 15
+pepe febreiro 20
+maria febreiro 5
+pepe marzo 10
