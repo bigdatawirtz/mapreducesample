@@ -26,3 +26,5 @@ Sort the mapped data
 `cat datos.txt | python mapper.py | sort ` 
 
 Reduce the sorted data (output: key-value results)
+
+`cat datos.txt | python mapper.py | sort | python reducer.py` 
